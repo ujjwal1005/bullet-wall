@@ -1,1 +1,2 @@
-# bullet-wall
+# collisionAlgorithm
+Algorithm to detect collision between two objects
